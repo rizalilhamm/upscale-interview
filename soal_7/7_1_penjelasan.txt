@@ -1,0 +1,4 @@
+Untuk mengambil data dari sebuah API yang mengembalikan data JSON menggunakan Golang, 
+Kita bisa menggunakan pustaka (library) bawaan Golang yaitu "net/http" 
+untuk membuat permintaan HTTP dan "encoding/json" untuk memparsing data JSON yang diterima. 
+Berikut adalah contoh cara mengambil data dari API menggunakan Golang.

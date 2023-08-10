@@ -1,0 +1,7 @@
+Cara Menemukan dan Memperbaiki masalah yang terdapat di dalam program golang yang biasa saya lakukan
+1. Mengidentifikasi Masalah
+2. Mencari celah kesalahan dengan menggunakan library "log"
+3. Melakukan debugging dan menemukan celah masalah untuk di solve
+4. Check Algoritma dan Structur Data
+5. Check Performance Database mulai dari Index Query sampai Command Perintah.
+6. Menggunakan Software APM untuk mengidentifikasi bagian kode yang memakan banyak waktu ketika eksekusi
